@@ -1,2 +1,4 @@
 # Data-Structure-Java
-OOP, Queue, linked list, trees, sorting
+Some Data-Structure Emaples in Java.
+The Examples include OOP , Queue , linked list , trees & sorting.
+Feel free to use it for any purpose.
